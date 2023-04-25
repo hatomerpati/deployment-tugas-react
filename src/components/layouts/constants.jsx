@@ -3,12 +3,32 @@ import { Button } from "antd";
 
 export const MENU_ITEM = [
   {
+    label: <Link to="/home">home</Link>,
+    key: "/home",
+  },
+  {
     label: <Link to="/form">Form</Link>,
-    key: "1",
+    key: "/form",
   },
   {
     label: <Link to="/portfolio">Portfolio</Link>,
-    key: "2",
+    key: "/portfolio",
+  },
+  {
+    label: <Link to="/create-product">Create Product</Link>,
+    key: "/create-product",
+  },
+  {
+    label: <Link to="/crud">CRUD</Link>,
+    key: "/crud",
+  },
+  {
+    label: <Link to="/swiper">Swiper</Link>,
+    key: "/swiper",
+  },
+  {
+    label: <Link to="/portfolio">Portfolio</Link>,
+    key: "/portfolio",
   },
   {
     label: (
