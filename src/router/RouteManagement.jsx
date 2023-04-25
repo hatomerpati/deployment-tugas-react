@@ -16,7 +16,7 @@ import LandingPage from '../pages/landingPage/LandingPage';
 import Swiper from '../pages/swiper/swiper';
 import SwiperName from '../pages/swiper/swiper';
 import FormCRUD from '../pages/form/FormComponent copy';
-import LoginPageQuery from '../pages/loginPage/exp/LoginPageQuery';
+
 
 
 const RouteManagement = () => {
