@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+}
+
+.hato {
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.background {
+    margin-bottom: 300px;
+    
+    align-content: center;
+    width: 700px
+}
+
+.height {
+    height: 300px;
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 ;
+    margin: 0;
+}
+.f-collumn
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.footer {
+    height: 400px;
+    background-color: gainsboro;
+    margin-top: 100px;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+    font-weight: 600;
+}
+.icon {
+    font-size: 40px;
+
+}
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+.hatoBackground {
+   
+    height: 1000px;
+    background-Size: 100%;
+    align-content: center;
+    color: white;
+    font-Weight: bold;
+    background-image: url(https://pbs.twimg.com/media/FgsJTLeVUAAqOoN?format=jpg&name=large);
+   
+}

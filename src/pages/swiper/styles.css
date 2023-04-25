@@ -1,0 +1,37 @@
+.ant-card-head-title {
+    white-space: initial;
+    font-size: 20px;
+    font-weight: 800;
+    color: #37517E;
+}
+
+.row {
+    background-image: url("https://pbs.twimg.com/media/FtsQF-qaMAUCHSn?format=jpg&name=small");
+    background-size: 30;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-color: white;
+    margin: 0 50px;
+    height: 700px;
+}
+
+.Col-main {
+    width: 1000px;
+    margin-left: 500px;
+    color: #37517E;
+}
+
+.carding {
+    margin: 20 20px;
+    height: 250px;
+    align-items: center;
+    align-content: center;
+}
+
+.title1 {
+    font-weight: 800;
+}
+
+.icon-size {
+    font-size: 30px;
+}

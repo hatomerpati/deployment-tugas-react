@@ -1,0 +1,51 @@
+ h1 {
+    font-size: 60px;
+    font-family: 'Muli', sans-serif;
+    font-weight: 800;
+    margin-bottom: 20px;
+ }   
+    
+ body {
+    font-family: 'SFCompactDisplay-Regular', sans-serif;
+    font-size: 14px;
+ }
+
+ p {
+    font-size: 16px;
+ }
+ 
+
+ button1 {
+    background-color: #F47522;
+    border-color: #F47522;
+ }
+
+ hato {
+    margin-left: -10px;
+ }
+
+
+
+ ul {
+   text-decoration: none;
+ }
+
+ li {
+   list-style: none;
+  
+ }
+ 
+ h3 {
+   color: #191970;
+   font-weight: bold;
+   font-size: 35px;
+}
+
+.card {
+   text-align: center;
+
+}
+
+.card2 {
+   text-align: left;
+}
