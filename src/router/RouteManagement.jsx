@@ -8,7 +8,7 @@ import Home from '../pages/home/home';
 import FormComponent from '../pages/form/FormComponent';
 import Portofolio from '../pages/portfolio/Portfolio'
 import Portfolio from '../pages/portfolio/Portfolio';
-import AboutMe from '../pages/aboutMe/AboutMe';
+
 import CreateProduct from '../pages/createProduct/CreateProduct';
 
 import Code from '../pages/codeCompetance2/Code';
@@ -42,9 +42,7 @@ const RouteManagement = () => {
             <Route path="/form" element={<FormComponent />} />
             <Route path="/home" element={<LandingPage />} />
             <Route path='/portofolio' element={<Portfolio/>}/>
-            <Route path='/about-me' element={<AboutMe/>}/>  
-            <Route path='/about-me/:id' element={<AboutMe/>}/>
-            <Route path="/create-product" element={<CreateProduct/>}/>
+                <Route path="/create-product" element={<CreateProduct/>}/>
 
             <Route path="/create-product/:id" element={<CreateProduct />} />
             <Route path="/code" element={<Code/>}/>
